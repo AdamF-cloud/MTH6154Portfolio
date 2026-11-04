@@ -1,0 +1,9 @@
+# Test Page
+
+This is a test to see how **Markdown** and LaTeX work on GitHub.
+
+- Here is a bullet point.
+- Here is an inline formula: $A = P(1 + r)^t$
+
+Here is a centered equation:
+$$S_n = P(1 + i)^n$$
